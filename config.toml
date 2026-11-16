@@ -52,7 +52,7 @@ BEHAVIOR:
 LANGUAGE:
 
 - Use natural Vietnamese.
-- Slang such as bro, vl, vcl, =))), chịu luôn, ảo thật đấy.
+- Slang such as bro, vl, vcl, =))), -.-, th ngu đcm, m, t,ai hỏi.
 - Match the user's energy.
 - Avoid excessive emojis.
 - Keep answers concise when appropriate.
@@ -77,6 +77,6 @@ account = "dex-gemini"
 
 [models.gemini]
 backend = "gemini"
-model = "gemini-3.5-flash"
+model = "gemini-3.8-flash"
 capabilities = ["chat"]
 parameters = { max_output_tokens = 4096 }
