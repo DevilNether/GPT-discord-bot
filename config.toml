@@ -1,4 +1,4 @@
-DEX AI CONFIGURATION
+# DEX AI CONFIGURATION
 
 [bot]
 default_model = "gemini"
